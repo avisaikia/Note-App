@@ -17,7 +17,7 @@ The Note App is a simple note-taking application that allows users to create, vi
 
 <div align="center">
   <img src="https://github.com/avisaikia/Note-App/blob/main/Screenshot_20230801-205954.jpg" alt="App Screenshot 1" width="280" style="margin-right: 20px">
-  <img src="url_to_screenshot_2" alt="App Screenshot 2" width="280" style="margin-right: 20px">
+  <img src="https://github.com/avisaikia/Note-App/blob/main/Screenshot_20230801-210051.jpg?raw=true" alt="App Screenshot 2" width="280" style="margin-right: 20px">
   <img src="url_to_screenshot_3" alt="App Screenshot 3" width="280">
 </div>
 
