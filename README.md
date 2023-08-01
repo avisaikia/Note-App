@@ -13,6 +13,12 @@ The Note App is a simple note-taking application that allows users to create, vi
 - Share a note
 
 
+## Screenshots
+
+![App Screenshot](https://imgur.com/DnRpa0h)
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
